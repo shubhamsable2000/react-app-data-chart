@@ -2,16 +2,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
 
-```bash
+first open the project in vs code or cursor
+npm i
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+into another terminal : npm run start-server
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
